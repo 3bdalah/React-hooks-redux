@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+
+p{
+  width: 500px;
+  /* text-align: center; */
+  margin: 10px auto;
+  /* flo */
+}
+.ParentClcks{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ParentClcks button {
+  border: none;
+  width:200px;
+  height: 30px;
+  margin:4px 10px;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5px;
+  cursor: pointer;
+}
